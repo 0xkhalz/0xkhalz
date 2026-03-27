@@ -34,16 +34,6 @@ let stack = vec![
 
 ---
 
-### `~/stats`
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xkhalz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xkhalz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
-</p>
-
----
-
 ### `~/connect`
 
 ```
