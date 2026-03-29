@@ -24,9 +24,9 @@ $ ./haider --describe
 
 ```rust
 let stack = vec![
-    ("Systems",  vec!["Rust", "C++", "Linux", "Shell Scripting"]),
-    ("Backend",  vec!["Python", "PostgreSQL", "SQL", "Axum"]),
-    ("Tooling",  vec!["Git", "Neovim", "Hyprland", "Docker"]),
+    ("Systems",  vec!["Rust", "C++", "Python", "JavaScript", "Linux", "Shell Scripting"]),
+    ("Backend",  vec!["FastAPI", "PostgreSQL", "Axum"]),
+    ("Tooling",  vec!["Git", "Neovim", "Docker"]),
     ("AI",       vec!["AI Agents", "Prompt Engineering", "LLM Pipelines"]),
 ];
 ```
