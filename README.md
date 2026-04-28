@@ -10,7 +10,7 @@
 ```
 
 ```bash
-$ ./haider --describe
+$ ./khalz --describe
 [*] Software Engineer & CS student (2025–2029)
 [*] Arch Linux · Hyprland · Neovim
 [*] Focus: AI Agents · Backend Systems · Autonomous tooling
